@@ -1,0 +1,227 @@
+{
+  "meta": {
+    "title": "Guest Guide — Valencia",
+    "description": "Everything you need for your stay: how to get here, house rules, WiFi, and the best of Valencia."
+  },
+  "nav": {
+    "howToGetThere": "Getting here",
+    "wifi": "WiFi",
+    "houseRules": "House rules",
+    "listings": "Our rooms",
+    "attractions": "Explore Valencia",
+    "recommendations": "Recommendations"
+  },
+  "hero": {
+    "eyebrow": "Welcome to",
+    "propertyName": "A room steps from Turia Park",
+    "subtitle": "Your quick guide for a smooth, happy stay in Valencia.",
+    "scrollCta": "Scroll for everything you need"
+  },
+  "howToGetThere": {
+    "title": "How to get here",
+    "intro": "Our address and the easiest ways to reach us from the airport, the train station, or the bus station.",
+    "addressLabel": "Address",
+    "mapButton": "Open route in Google Maps",
+    "contactsTitle": "Direct contact",
+    "whatsappCta": "WhatsApp",
+    "fromAirport": {
+      "title": "From Valencia Airport (VLC)",
+      "text": "The best option is the metro: take Line 3 or Line 5 to Nou d'Octubre station (about 15 minutes). From there, walk a few meters to the stop and take bus 98 towards Passeig Marítim - Hospital Malva-rosa, which drops you just a 2-minute walk from the apartment. The whole trip takes around 35-40 minutes from the airport. If you'd rather go direct, a taxi takes about 20 minutes.",
+      "url": "https://maps.app.goo.gl/7MPgMvQTbYuZAbbA8"
+    },
+    "fromTrainStation": {
+      "title": "From Estación del Norte",
+      "text": "The apartment is about a 20-minute walk, or a quick ride with the EMT bus network, taxi, or rideshare app.",
+      "url": "https://maps.app.goo.gl/bY83g9Uphjx2rQ9RA"
+    },
+    "fromBusStation": {
+      "title": "From Valencia Bus Station",
+      "text": "The bus station is just 400m from the apartment, about a 5-minute walk."
+    }
+  },
+  "wifi": {
+    "title": "WiFi",
+    "intro": "Stay connected during your stay.",
+    "networkLabel": "Network",
+    "passwordLabel": "Password",
+    "scanHint": "Scan this code to connect automatically"
+  },
+  "houseRules": {
+    "title": "House rules",
+    "intro": "A few things to keep in mind so everyone has a great stay.",
+    "checkIn": { "label": "Check-in", "value": "11:00 AM – 7:00 PM" },
+    "checkOut": { "label": "Check-out", "value": "Before 10:00 AM" },
+    "maxGuests": { "label": "Max guests", "value": "1 person" },
+    "pets": { "label": "Guest pets", "value": "Not allowed" },
+    "events": { "label": "Events", "value": "Not allowed" },
+    "smoking": {
+      "label": "Smoking / vaping",
+      "value": "Not inside the room or common areas — allowed on the balcony"
+    },
+    "quietHours": { "label": "Quiet hours", "value": "11:00 PM – 8:00 AM" },
+    "cancellation": {
+      "label": "Cancellation policy",
+      "value": "Moderate for short stays, firm for long stays"
+    },
+    "kitchenNote": "For hygiene reasons, cooking on the ceramic hob isn't allowed — you're welcome to use the microwave or air fryer.",
+    "laundryNote": "The washing machine has an extra cost and can only be used between 10:00 AM and 8:00 PM to avoid disturbing neighbors — let us know beforehand so we can set it up with the right program and products.",
+    "dryingNote": "If you'd like to hang up laundry, please do it on the drying rack in the laundry room, not from the bedroom window: clothes hung outside can only be taken down by going back into that room, which can get awkward later on.",
+    "bathroomNote": "Please help keep the bathroom clean after use: \"Leave it as you'd like to find it.\"",
+    "petNote": "Uma, a very affectionate 9-year-old French Bulldog, lives in the flat and will likely greet you with excitement. Please keep this in mind before booking if you're afraid of or dislike dogs."
+  },
+  "listings": {
+    "title": "Our rooms",
+    "intro": "Take a look at both rooms, and tap through to see the full Airbnb listing.",
+    "viewOnAirbnb": "View listing on Airbnb"
+  },
+  "attractions": {
+    "title": "Discover Valencia",
+    "intro": "A few classics worth your time while you're here.",
+    "addressLabel": "Address",
+    "travelInfoLabel": "Getting there",
+    "sectionTransport": "Getting around town",
+    "items": {
+      "cityOfArtsAndSciences": {
+        "title": "City of Arts and Sciences",
+        "address": "Av. del Professor López Piñero, 7, Valencia",
+        "travelInfo": "~20 min walk, or Metro L3/L5 to Alameda + 10 min walk",
+        "description": "Valencia's futuristic icon: science museum, opera house, planetarium, and Europe's largest aquarium, all in one riverbed park.",
+        "url": "https://maps.app.goo.gl/2VAxny3pD1xJntDr9"
+      },
+      "centralMarket": {
+        "title": "Mercado Central",
+        "address": "Plaça de la Ciutat de València, s/n, Valencia",
+        "travelInfo": "~15 min walk, or Metro to Xàtiva",
+        "description": "A stunning modernist market hall packed with fresh produce, jamón, and local tapas bars — great for breakfast or a snack.",
+        "url": "https://maps.app.goo.gl/NWysfhpGFL3Nyazx9"
+      },
+      "elCarmen": {
+        "title": "El Carmen (Old Town)",
+        "address": "Barrio del Carmen, Valencia",
+        "travelInfo": "~20 min walk, or short taxi ride",
+        "description": "Valencia's oldest neighborhood: narrow medieval streets, street art, and buzzing tapas bars into the night.",
+        "url": "https://maps.app.goo.gl/Aqfaq527DQa8uaTx7"
+      },
+      "malvarrossaBeach": {
+        "title": "Playa de la Malvarrosa",
+        "address": "Passeig Marítim de la Malva-rosa, Valencia",
+        "travelInfo": "~25 min by bus or a short taxi/bike ride",
+        "description": "The city's main sandy beach, lined with paella restaurants right on the seafront.",
+        "url": "https://maps.app.goo.gl/kJoScZx6SehBMbVV6"
+      },
+      "lonjaDeLaSeda": {
+        "title": "La Lonja de la Seda",
+        "address": "Carrer de la Llotja, 2, Valencia",
+        "travelInfo": "~15 min walk from the apartment",
+        "description": "A UNESCO World Heritage Gothic silk exchange, one of the finest examples of civil Gothic architecture in Europe.",
+        "url": "https://maps.app.goo.gl/wgBU5iRSXJrC8TJH6"
+      },
+      "turiaGardens": {
+        "title": "Turia Gardens",
+        "address": "Jardín del Turia, Valencia",
+        "travelInfo": "Right outside — a few minutes' walk",
+        "description": "A 9km park built in the old riverbed, perfect for walking, running, or cycling straight from the door.",
+        "url": "https://maps.app.goo.gl/te29nZw9afptE5ur6"
+      },
+      "termasDeMura": {
+        "title": "Roman Baths and Oracular Sanctuary of Mura (Llíria)",
+        "address": "Partida de Mura, Llíria, Valencia",
+        "travelInfo": "Half-day trip: ~35 min by car, or Metrovalencia Line 2 to Llíria + a short local ride",
+        "description": "One of the largest Roman thermal complexes on the peninsula (1st century AD), with a rare oracular sanctuary — an archaeological day trip about 30km from Valencia.",
+        "url": "https://maps.app.goo.gl/L5AU3kmjNU5X4GEHA"
+      },
+      "portSaplaya": {
+        "title": "Port Saplaya",
+        "address": "Alboraya, Valencia",
+        "travelInfo": "~15-20 min by car or taxi, also reachable by tram Line 4",
+        "description": "Known as Valencia's \"little Venice\": canals with moored boats and colorful seafront houses, perfect for a relaxed stroll.",
+        "url": "https://maps.app.goo.gl/8XxcAnfBz6tbCmMQ9"
+      },
+      "sanNicolas": {
+        "title": "San Nicolás Parish-Museum",
+        "address": "Carrer de Cavallers, 35, Valencia",
+        "travelInfo": "~20 min walk, in the El Carmen neighborhood",
+        "description": "Known as the \"Valencian Sistine Chapel\": almost 2,000 m² of Baroque frescoes completely cover its Gothic vaults.",
+        "url": "https://maps.app.goo.gl/SQarrf2CX3HJnL8x7"
+      },
+      "ateneaSky": {
+        "title": "Atenea Sky ✢ Rooftop",
+        "address": "Carrer de Moratín, 12, Valencia",
+        "travelInfo": "~20 min walk or a short taxi/bus ride, in the historic center",
+        "description": "A rooftop terrace on the 8th floor of the historic Ateneo Mercantil building, with 360° city views and great cocktails.",
+        "url": "https://maps.app.goo.gl/ejZfDZa9qpeWQoMW7"
+      },
+      "skyBarNovotel": {
+        "title": "Sky Bar Novotel Valencia Levante",
+        "address": "Av. de Pius XII, 4, Valencia",
+        "travelInfo": "~15 min by bus or taxi, next to the Nuevo Centro shopping mall",
+        "description": "A rooftop terrace with a pool on the 12th floor of the Novotel hotel, free entry, with 360° panoramic city views.",
+        "url": "https://maps.app.goo.gl/GtBB3M2XHn3VQCw59"
+      },
+      "bombasGens": {
+        "title": "Bombas Gens Centre d'Art",
+        "address": "Av. de Burjassot, 54-56, Valencia",
+        "travelInfo": "A few minutes' walk along Av. de Burjassot, very close to the apartment",
+        "description": "A contemporary art and photography center set in a renovated 1930s Art Déco factory — free entry on select days.",
+        "url": "https://maps.app.goo.gl/S1RJ8gD8M4JHC8HQ6"
+      },
+      "ivam": {
+        "title": "IVAM (Valencian Institute of Modern Art)",
+        "address": "Carrer de Guillem de Castro, 118, Valencia",
+        "travelInfo": "~10 min by bus, or ~25 min walking along the Turia Gardens",
+        "description": "Spain's first modern art museum (1989), home to an outstanding collection of Julio González sculptures.",
+        "url": "https://maps.app.goo.gl/e2PZ4JcLvwzYEvvg8"
+      },
+      "miradorAlbufera": {
+        "title": "Mirador de la Albufera",
+        "address": "Between El Saler and El Palmar, Valencia",
+        "travelInfo": "Half-day trip: ~20 min by car or taxi, about 10 km south of the city",
+        "description": "One of the most beautiful sunsets in Spain, over the Albufera lake surrounded by rice paddies. Great for birdwatching — the Albufera is a special protection area with over 300 species — or a traditional boat ride.",
+        "url": "https://maps.app.goo.gl/wsqkdirPYDQkiGN29"
+      },
+      "valenbici": {
+        "title": "Valenbici (bike rental)",
+        "address": "Stations all over the city",
+        "travelInfo": "Download the app and sign up; short-term passes available for tourists",
+        "description": "Valencia's public bike-share system — a cheap, fast way to get around the flat, bike-friendly city.",
+        "url": "https://play.google.com/store/apps/details?id=com.jcdecaux.vls.valence"
+      },
+      "yego": {
+        "title": "Yego (moto-sharing)",
+        "address": "Available across the city via the app",
+        "travelInfo": "Download the app, verify your license, and unlock a scooter nearby",
+        "description": "A moto-sharing service that's ideal for zipping around Valencia without worrying about traffic or parking.",
+        "url": "https://play.google.com/store/apps/details?id=com.getyugo.app"
+      },
+      "emt": {
+        "title": "EMT Valencia (buses & metro)",
+        "address": "Official Valencia public transport app",
+        "travelInfo": "Check schedules, routes, and real-time arrivals",
+        "description": "The official EMT app for getting around by bus and checking the metro — handy for planning trips around the city.",
+        "url": "https://play.google.com/store/apps/details?id=es.emtvalencia.emt"
+      }
+    }
+  },
+  "recommendations": {
+    "title": "Leave us a recommendation",
+    "intro": "Tried a great restaurant or found a hidden gem? Tell us about it — we'd love to hear from you.",
+    "nameLabel": "Name",
+    "namePlaceholder": "Your name",
+    "emailLabel": "Email",
+    "emailPlaceholder": "your@email.com",
+    "messageLabel": "Your recommendation",
+    "messagePlaceholder": "Share a place, tip, or memory from your stay...",
+    "submit": "Send",
+    "sending": "Sending...",
+    "success": "Thank you! Your recommendation has been sent.",
+    "error": "Something went wrong. Please try again in a moment."
+  },
+  "footer": {
+    "scanQr": "Scan to open this guide on your phone",
+    "enjoyStay": "Enjoy your stay in Valencia!",
+    "rights": "All rights reserved."
+  },
+  "language": {
+    "label": "Language"
+  }
+}

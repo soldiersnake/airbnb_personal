@@ -1,0 +1,59 @@
+@import "tailwindcss";
+
+@theme {
+  /* Paleta "Mediterráneo / Valencia": naranja terracota, turquesa mar, amarillo sol */
+  --color-terracotta: #e8622c;
+  --color-terracotta-dark: #c94f1f;
+  --color-turquoise: #0d9aa6;
+  --color-turquoise-dark: #0a7a84;
+  --color-sun: #ffc93c;
+  --color-sun-dark: #f2ae0e;
+  --color-sand-50: #fffaf2;
+  --color-sand-100: #fef3e2;
+  --color-ink: #2b2320;
+
+  --font-heading: "Quicksand", ui-sans-serif, system-ui, sans-serif;
+  --font-sans: "Nunito", ui-sans-serif, system-ui, sans-serif;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  font-family: var(--font-sans);
+}
+
+h1,
+h2,
+h3 {
+  font-family: var(--font-heading);
+}
+
+::selection {
+  background-color: var(--color-sun);
+  color: var(--color-ink);
+}
+
+.section-fade-in {
+  animation: fade-in-up 0.5s ease-out both;
+}
+
+@keyframes fade-in-up {
+  from {
+    opacity: 0;
+    transform: translateY(14px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* Fondo decorativo tipo "olas" usado detrás del hero */
+.wave-bg {
+  background: radial-gradient(circle at 15% 10%, rgba(255, 201, 60, 0.25), transparent 45%),
+    radial-gradient(circle at 85% 0%, rgba(13, 154, 166, 0.2), transparent 50%),
+    radial-gradient(circle at 50% 100%, rgba(232, 98, 44, 0.12), transparent 55%);
+}
