@@ -26,9 +26,9 @@ Definidas en `.env` (a partir de `.env.example`):
 | Variable | Descripción | Ejemplo |
 |---|---|---|
 | `VITE_API_URL` | URL base del backend compartido con el portfolio (sin `/` al final). El formulario de recomendaciones hace `POST` a `${VITE_API_URL}/recommendations`. | `http://localhost:3000` |
-| `VITE_SITE_URL` | URL pública final del sitio, usada para generar el QR "escaneá para abrir esta guía" del footer. | `https://airbnb.marianomaciasgandulfo.com |
+| `VITE_SITE_URL` | URL pública final del sitio, usada para generar el QR "escaneá para abrir esta guía" del footer. | `https://airbnb.marianomaciasgandulfo.com` |
 
-## Estructura de contenid`o
+## Estructura de contenido
 
 Todo el contenido vive en `src/data/*.ts` (perfil/dirección/WiFi, publicaciones, orden de atractivos turísticos) y los textos de la interfaz en `src/i18n/locales/{en,es,ru}.json`. El texto de cada atractivo turístico (título, dirección, info para viajar, descripción) también vive en esos JSON, bajo `attractions.items.<id>`, para que cada idioma tenga su propia versión sin tocar componentes.
 
